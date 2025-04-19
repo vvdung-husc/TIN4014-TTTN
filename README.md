@@ -27,9 +27,15 @@
  4. Tìm hiểu và triển khai *Firewall* ***Kerio Control*** *(Kerio Control VMware Virtual Appliance hoặc Kerio Control Hyper-V Virtual Appliance)*
  5. Tìm hiểu, khai thác ***Kali Linux***
 
-## Chú ý
+## Chú ý 
 
- - Mỗi cuối tuần báo cáo kết quả đã làm được (qua email)
- - Trong quá trình làm thực tập có thể trao đổi qua email hoặc hẹn gặp giáo viên trên Khoa.
- - Cuối kỳ thực tập viết một bản báo cáo về những gì đã đạt được (Khoảng lơn hơn 10 trang)
+  1. ***Các bạn làm đề tài***
+	 - Mỗi cuối tuần báo cáo kết quả đã làm được (qua email)
+	 - Trong quá trình làm thực tập có thể trao đổi qua email hoặc hẹn gặp giáo viên trên Khoa.
+	 - Cuối kỳ thực tập viết một bản báo cáo về những gì đã đạt được (Khoảng lớn hơn 10 trang) 
+	 
+ 2. ***Các bạn thực tập tại Công ty***
+	 - Cuối thực tập cần in mẫu Nhận xét để đưa người hướng dẫn tại Công ty cho điểm và đóng dấu xác nhận.
+	 - Chụp ảnh mẫu nhận xét (đã có điểm và đóng dấu của Cty) gửi cho giáo viên hướng dẫn, bản chính nộp lại sau.
+
 ---
